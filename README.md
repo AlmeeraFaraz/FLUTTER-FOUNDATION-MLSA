@@ -1,16 +1,4 @@
-# bootcamp_project
+# Flutter-Foundation bootcamp_project
+I'm excited to share flutter foundation bootcamp task given by Imaan Tahir and powered by Microsoft Learn Student Ambassadors.
+This project is a starting point for a Flutter application with a Splash screen, login Screen and dashboard screen. 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
